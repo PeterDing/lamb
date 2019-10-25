@@ -2,4 +2,4 @@
 
 We use pure python code inherted from `tensorflow.keras.optimizers.Adam` to implement the LAMB algorithm ( Layerwise Adaptive Large Latch optimization).
 
-This implementation uses L2 regulation for all weights excepted for layernorm and all biases.
+This implementation uses L2 regularization for all weights excepted for layernorm and all biases.
